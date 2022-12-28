@@ -1,0 +1,9 @@
+Egypt	  5.925519122061148%
+France	  23.8833949496401%
+Brazil	  3.1129031691672715%
+Jordan	  9.221213569039657%
+Thailand	  1.6190998902305158%
+India	  1.6111157599933903%
+Total infected cases = 15168135 and average = 2528022.5
+Death ratio : 
+Max country is ==> France( 23.8833949496401% )and min country is ==> India( 1.6111157599933903% )
