@@ -1,4 +1,4 @@
 ## JAVA-Course
 
-# Final project ( Course Managment System )
+# Final project ( Course Management System )
 
