@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699877866 source:d:\collage (  cse ) fourth year\test\scanner\test\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+
