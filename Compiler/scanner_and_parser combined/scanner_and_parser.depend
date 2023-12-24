@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1703084034 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\scanner_and_parser\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	"scanner.h"
+	"parser.h"
+
+1703081080 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\scanner_and_parser\scanner.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	<map>
+
+1703081093 d:\collage (  cse ) fourth year\first semester\compiler\lab\scanner_and_parser\scanner.h
+	<fstream>
+	<iostream>
+	<cctype>
+	<string>
+	<map>
+
+1703083750 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\scanner_and_parser\parser.cpp
+	"parser.h"
+	<fstream>
+
+1703080971 d:\collage (  cse ) fourth year\first semester\compiler\lab\scanner_and_parser\parser.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1703088280 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser\parser.cpp
+	"parser.h"
+	<fstream>
+
+1703087981 d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser\parser.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1703081080 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser\scanner.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	<map>
+
+1703087853 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	"scanner.h"
+	"parser.h"
+
+1703081093 d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser\scanner.h
+	<fstream>
+	<iostream>
+	<cctype>
+	<string>
+	<map>
+
+1703100844 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	"scanner.h"
+	"parser.h"
+
+1703081093 d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for\scanner.h
+	<fstream>
+	<iostream>
+	<cctype>
+	<string>
+	<map>
+
+1703100361 d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for\parser.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1703100811 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for\parser.cpp
+	"parser.h"
+	<fstream>
+
+1703100269 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for\scanner.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	<map>
+
+1703416081 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for switch\parser.cpp
+	"parser.h"
+	<fstream>
+
+1703100361 d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for switch\parser.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1703100269 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for switch\scanner.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	<map>
+
+1703416019 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for switch\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	"scanner.h"
+	"parser.h"
+
+1703081093 d:\collage (  cse ) fourth year\first semester\compiler\lab\new folder\scanner_and_parser if else if while for switch\scanner.h
+	<fstream>
+	<iostream>
+	<cctype>
+	<string>
+	<map>
+
