@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1703079190 source:d:\collage (  cse ) fourth year\other\parser\parser_chat_gpt\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<map>
+
+1703101353 source:d:\collage (  cse ) fourth year\other\parser\parser\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<map>
+
