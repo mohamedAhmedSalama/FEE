@@ -1,0 +1,26 @@
+14 switch
+2 (
+8 choice
+3 )
+4 {
+15 case
+9 1
+7 :
+8 choice
+10 =
+8 choice
+10 *
+9 2
+6 ;
+17 break
+6 ;
+16 default
+7 :
+8 choice
+10 =
+8 choice
+10 -
+9 1
+6 ;
+5 }
+18 

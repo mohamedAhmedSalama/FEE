@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703418148 source:d:\collage (  cse ) fourth year\first semester\compiler\lab\parser\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<map>
+
